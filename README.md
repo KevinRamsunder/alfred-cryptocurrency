@@ -1,6 +1,8 @@
 # CryptoCurrency Workflow for [Alfred 3](http://www.alfredapp.com)
 
-A workflow for [Alfred 3](http://www.alfredapp.com) that provides information about cryptocurrency from [coinmarketcap.com](https://coinmarketcap.com).
+## Updates
+Now fetches all the cryptos from coinmarketcap and has each icon:
+![Usage Basic Info](resources/screenshot.png)
 
 ## Usage Guide
 ![Usage Help](resources/help-resize.gif)
