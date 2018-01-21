@@ -25,7 +25,9 @@ def get_currency_subtitle(currency):
 
 
 def get_currency_icon(currency=None):
-    return COIN_ICON
+    if currency is None:
+        return COIN_ICON
+    return "./images/" + currency['id'] + ".png"
 
 
 def get_app_icon():
