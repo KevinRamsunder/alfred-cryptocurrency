@@ -8,7 +8,6 @@ def get_recent_currencies_info():
     Returns a list of currencies' information
     """
 
-    print 'yo'
     # Get the information of the top 100 most popular currencies from the
     # website
     url = "https://api.coinmarketcap.com/v1/ticker/?limit=1500"
